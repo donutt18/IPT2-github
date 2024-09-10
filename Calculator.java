@@ -8,7 +8,10 @@ public class Calculator {
         System.out.println("Addition : " + sum);
 
         int difference = a - b;
-        System.out.println("Addition : " + difference);
+        System.out.println("Difference : " + difference);
+
+        int product = a * b;
+        System.out.println("Product : " + product);
 
     }
 }
