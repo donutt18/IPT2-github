@@ -7,5 +7,8 @@ public class Calculator {
         int sum = a + b;
         System.out.println("Addition : " + sum);
 
+        int difference = a - b;
+        System.out.println("Addition : " + difference);
+
     }
 }
